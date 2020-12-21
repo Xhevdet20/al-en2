@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 310 330" max-height="100%">
+  <defs>
+    <linearGradient id="grad1" x1="0%" y1="100%" x2="70%" y2="30%">
+      <stop offset="50%" style="stop-color:rgb(128,128,128);stop-opacity:0.5" />
+      <stop offset="100%" style="stop-color:rgb(255,255,255);stop-opacity:0" />
+    </linearGradient>
+	<linearGradient id="grad2" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="10%" style="stop-color:rgb(255,255,255);stop-opacity:0" />
+      <stop offset="100%" style="stop-color:rgb(128,128,128);stop-opacity:0.5" />
+    </linearGradient>
+  </defs>
+  <path d="M 5 105
+           L 5 272 305 272 305 5 105 5
+           A 100 100 0 0 0 5 105" stroke="black" fill="none" stroke-width="2" fill-opacity="0" id="korniza"/>
+  <path d="M 188 205
+           L 105 205 186 95 186 34 33 241 210 241
+		   A 96 96 0 0 1 188 205" stroke="none" fill="url(#grad1)" stroke-width="1" fill-opacity="1"/>
+  <path d="M 214 176
+           L 214 34 251 34 251 176
+           A 29 29 0  0 0 280 205
+           L 280 241
+           A 66 66 0 0 1 214 176" stroke="none" fill="url(#grad2)" stroke-width="0" fill-opacity="1"/> 		   
+  <path d="M 23 254
+           L 196 21" stroke="black" fill="none" stroke-width="1" fill-opacity="0"/>
+  <path d="M 17 241
+           L 222 241" stroke="black" fill="none" stroke-width="1" fill-opacity="0"/>
+  <path d="M 105 205
+           L 201 205" stroke="black" fill="none" stroke-width="1" fill-opacity="0"/>
+  <path d="M 105 205
+           L 196 82" stroke="black" fill="none" stroke-width="1" fill-opacity="0"/>
+  <path d="M 186 18
+           L 186 110" stroke="black" fill="none" stroke-width="1" fill-opacity="0"/>
+  <path d="M 218 250
+           A 96 96 0 0 1 186 194" stroke="black" fill="none" stroke-width="1" fill-opacity="0"/>
+  <path d="M 199 34
+           L 266 34" stroke="black" fill="none" stroke-width="1" fill-opacity="0"/>
+  <path d="M 214 18
+           L 214 176
+           A 65.5 65.5 0 0 0 295 239" stroke="black" fill="none" stroke-width="1" fill-opacity="0"/>
+  <path d="M 251 18
+           L 251 176
+           A 29.5 29.5 0 0 0 295 201" stroke="black" fill="none" stroke-width="1" fill-opacity="0"/>
+  <path d="M 280 187
+           L 280 257" stroke="black" fill="none" stroke-width="1" fill-opacity="0"/>
+  <text x="5" y="315" textLength="300" lengthAdjust="spacingAndGlyphs" font-size="49px" font-family="Tahoma, sans-serif" fill="rgb(153,153,153)" id="teksti">engineering</text>
+           
+</svg>
